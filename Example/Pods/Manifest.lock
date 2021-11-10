@@ -1,0 +1,16 @@
+PODS:
+  - ZWModelBindAction (0.1.0)
+
+DEPENDENCIES:
+  - ZWModelBindAction (from `../`)
+
+EXTERNAL SOURCES:
+  ZWModelBindAction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZWModelBindAction: 1d1ca29357041a751b17dbf7a4483ebfb83c7a63
+
+PODFILE CHECKSUM: a783d688ba13a36fabb36c4257f3090f9b6ea14c
+
+COCOAPODS: 1.11.2

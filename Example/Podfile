@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZWModelBindAction_Example' do
+  pod 'ZWModelBindAction', :path => '../'
+
+  target 'ZWModelBindAction_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

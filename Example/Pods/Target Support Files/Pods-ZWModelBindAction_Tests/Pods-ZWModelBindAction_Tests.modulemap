@@ -1,0 +1,6 @@
+framework module Pods_ZWModelBindAction_Tests {
+  umbrella header "Pods-ZWModelBindAction_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

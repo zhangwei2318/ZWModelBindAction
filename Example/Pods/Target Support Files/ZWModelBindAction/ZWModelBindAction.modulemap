@@ -1,0 +1,6 @@
+framework module ZWModelBindAction {
+  umbrella header "ZWModelBindAction-umbrella.h"
+
+  export *
+  module * { export * }
+}
