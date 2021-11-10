@@ -2,7 +2,7 @@
   "name": "ZWModelBindAction",
   "version": "0.1.0",
   "summary": "A short description of ZWModelBindAction.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "Model与cell的点击事件进行了绑定,可以有效避免UItableView/UICollectionView的delegate中的判断",
   "homepage": "https://github.com/zhangwei2318/ZWModelBindAction",
   "license": {
     "type": "MIT",
